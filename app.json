@@ -1,9 +1,6 @@
 {
-  "pages":[
-    "pages/index/index",
-    "pages/logs/logs",
-    "pages/map/map",
-    "pages/pay/pay",
+  "pages":[ 
+    "pages/helper/helper",
     "pages/user/user"
   ],
   "window":{
@@ -13,22 +10,26 @@
     "navigationBarTextStyle":"black"
   },
   "tabBar": {
-    "list": [
+    "list":[
+      // {
+      //   "pagePath": "pages/index/index",
+      //   "text": "地址"
+      // },
+      // {
+      //   "pagePath": "pages/map/map",
+      //   "text": "地图"
+      // },
+      // {
+      //   "pagePath": "pages/logs/logs",
+      //   "text": "日志"
+      // },
+      // {
+      //   "pagePath": "pages/pay/pay",
+      //   "text": "支付"
+      // },
       {
-        "pagePath": "pages/index/index",
-        "text": "地址"
-      },
-      {
-        "pagePath": "pages/map/map",
-        "text": "地图"
-      },
-      {
-        "pagePath": "pages/logs/logs",
-        "text": "日志"
-      },
-      {
-        "pagePath": "pages/pay/pay",
-        "text": "支付"
+        "pagePath": "pages/helper/helper",
+        "text": "小助手"
       },
       {
         "pagePath": "pages/user/user",
