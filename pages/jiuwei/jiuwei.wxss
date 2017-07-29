@@ -1,0 +1,50 @@
+/* jiuwei.wxss */
+.home-view1{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    margin: 6px;
+}
+.home-view2{
+  display:flex;
+  justify-content: center;
+}
+
+.home-image1{
+    height: 400px;
+}
+
+.home-text1{
+    text-align: left;
+    line-height: 25px;
+    margin-top: 6px;
+    margin-right: 6px;
+    color: gray;
+}
+
+.home-text-time{
+    text-align: center;
+    margin-right: 20px;
+    padding-top: 5px;
+    color: gray;
+}
+.home-view-line{
+ width: 100%;
+ height: 6px;
+ margin-top: 5px;
+ background-color: gainsboro;
+}
+.bgColor{
+    background-color: lightblue;
+    opacity: 0.6;
+}
+.rotateimg90 {
+  -webkit-transform:rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -ms-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  transform: rotate(0deg);
+}
+@import '../citySelect/citySelect.wxss';

@@ -1,35 +1,29 @@
 {
-  "pages":[ 
-    "pages/helper/helper",
-    "pages/user/user"
+  "pages": [
+    "pages/city/city",
+    "pages/jiuwei/jiuwei",
+    "pages/user/user",
+    "pages/jogchat/jogchat"
   ],
-  "window":{
-    "backgroundTextStyle":"light",
+  "window": {
+    "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "letsublease.com",
-    "navigationBarTextStyle":"black"
+    "navigationBarTitleText": "北美加群小助手Jogchat.com",
+    "navigationBarTextStyle": "black"
   },
   "tabBar": {
-    "list":[
-      // {
-      //   "pagePath": "pages/index/index",
-      //   "text": "地址"
-      // },
-      // {
-      //   "pagePath": "pages/map/map",
-      //   "text": "地图"
-      // },
-      // {
-      //   "pagePath": "pages/logs/logs",
-      //   "text": "日志"
-      // },
-      // {
-      //   "pagePath": "pages/pay/pay",
-      //   "text": "支付"
-      // },
+    "list": [
       {
-        "pagePath": "pages/helper/helper",
-        "text": "小助手"
+        "pagePath": "pages/city/city",
+        "text": "城市分类"
+      },
+      {
+        "pagePath": "pages/jiuwei/jiuwei",
+        "text": "九尾萌盟"
+      },
+      {
+        "pagePath": "pages/jogchat/jogchat",
+        "text": "Jogchat.com"
       },
       {
         "pagePath": "pages/user/user",
