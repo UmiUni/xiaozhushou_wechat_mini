@@ -2,8 +2,7 @@
   "pages": [
     "pages/city/city",
     "pages/jiuwei/jiuwei",
-    "pages/user/user",
-    "pages/jogchat/jogchat"
+    "pages/user/user"
   ],
   "window": {
     "backgroundTextStyle": "light",
@@ -15,19 +14,21 @@
     "list": [
       {
         "pagePath": "pages/city/city",
-        "text": "城市分类"
+        "text": "城市分类",
+        "iconPath": "images/city.png",
+        "selectedIconPath": "images/city-activated.png"
       },
       {
         "pagePath": "pages/jiuwei/jiuwei",
-        "text": "九尾萌盟"
-      },
-      {
-        "pagePath": "pages/jogchat/jogchat",
-        "text": "Jogchat.com"
+        "text": "九尾萌盟",
+        "iconPath": "images/jiuwei.png",
+        "selectedIconPath": "images/jiuwei-activated.png"
       },
       {
         "pagePath": "pages/user/user",
-        "text": "我"
+        "text": "我",
+        "iconPath": "images/user.png",
+        "selectedIconPath": "images/user-activated.png"
       }
     ]
   }

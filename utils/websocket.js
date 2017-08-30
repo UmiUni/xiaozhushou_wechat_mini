@@ -1,4 +1,4 @@
-var url = 'ws://jogchat.com:8080/ws';
+var url = 'wss://jogchat.com:8080/ws';
 
 function connect(user, func) {
 
@@ -8,7 +8,6 @@ function connect(user, func) {
 
   wx.onSocketMessage(func);
 }
-
 
 function send(msg) {
   wx.sendSocketMessage({ data: msg });
