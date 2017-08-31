@@ -1,4 +1,4 @@
-/* jiuwei.wxss */
+/**index.wxss**/
 .home-view1{
     display: flex;
     justify-content: center;
@@ -13,7 +13,7 @@
 }
 
 .home-image1{
-    height: 420px;
+    height: 600px;
 }
 
 .home-text1{
@@ -47,4 +47,3 @@
   -o-transform: rotate(0deg);
   transform: rotate(0deg);
 }
-@import '../citySelect/citySelect.wxss';

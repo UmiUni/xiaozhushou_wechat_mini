@@ -8,45 +8,45 @@
 <template is="addressPicker" data="{{ ...city }}"/>
 
 <view class="home-view1">
+        <!--描述层-->
+        <text class="home-text1">湾区／硅谷加群小助手</text>
         <!--图片层-->
         <view class="home-view2">
             <image  class="home-image1" src="http://jogchat.com/img/Stanford.png" data-src="http://jogchat.com/img/Stanford.png" bindtap="previewImage"></image>
         </view>
-        <!--描述层-->
-        <text class="home-text1">湾区／硅谷加群小助手</text>
         <!--分界线line-->
         <view class="home-view-line"></view>
 </view>
 
 <view class="home-view1">
+        <!--描述层-->
+        <text class="home-text1">纽约加群小助手</text>
         <!--图片层-->
         <view class="home-view2">
             <image  class="home-image1" src="http://jogchat.com/img/NYU.png" data-src="http://jogchat.com/img/NYU.png" bindtap="previewImage"></image>
         </view>
-        <!--描述层-->
-        <text class="home-text1">纽约加群小助手</text>
         <!--分界线line-->
         <view class="home-view-line"></view>
 </view>
 
 <view class="home-view1">
+        <!--描述层-->
+        <text class="home-text1">香槟加群小助手</text>
         <!--图片层-->
         <view class="home-view2">
             <image  class="home-image1" src="http://jogchat.com/img/UIUC.png" data-src="http://jogchat.com/img/UIUC.png" bindtap="previewImage"></image>
         </view>
-        <!--描述层-->
-        <text class="home-text1">香槟加群小助手</text>
         <!--分界线line-->
         <view class="home-view-line"></view>
 </view>
 
 <view class="home-view1">
+        <!--描述层-->
+        <text class="home-text1">三番加群小助手</text>
         <!--图片层-->
         <view class="home-view2">
             <image  class="home-image1" src="http://jogchat.com/img/SFSU.png" data-src="http://jogchat.com/img/SFSU.png" bindtap="previewImage"></image>
         </view>
-        <!--描述层-->
-        <text class="home-text1">三番加群小助手</text>
         <!--分界线line-->
         <view class="home-view-line"></view>
 </view>

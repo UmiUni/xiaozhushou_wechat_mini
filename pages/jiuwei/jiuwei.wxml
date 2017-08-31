@@ -1,22 +1,22 @@
 <!--jiuwei.wxml-->
 <view class="home-view1">
+        <!--描述层-->
+        <text class="home-text1">九尾萌盟群活动群汇总</text>
         <!--图片层-->
         <view class="home-view2">
             <image  class="home-image1" src="http://jogchat.com/img/jiuweiyundong.png" data-src="http://jogchat.com/img/jiuweiyundong.png" bindtap="previewImage"></image>
         </view>
-        <!--描述层-->
-        <text class="home-text1">九尾萌盟群活动群汇总</text>
         <!--分界线line-->
         <view class="home-view-line"></view>
 </view>
 
 <view class="home-view1">
+        <!--描述层-->
+        <text class="home-text1">九尾萌盟租房群汇总</text>
         <!--图片层-->
         <view class="home-view2">
             <image  class="home-image1" src="http://jogchat.com/img/jiuweihuodong.png" data-src="http://jogchat.com/img/jiuweihuodong.png" bindtap="previewImage"></image>
         </view>
-        <!--描述层-->
-        <text class="home-text1">九尾萌盟租房群汇总</text>
         <!--分界线line-->
         <view class="home-view-line"></view>
 </view>

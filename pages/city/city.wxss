@@ -13,11 +13,11 @@
 }
 
 .home-image1{
-    height: 400px;
+    height: 420px;
 }
 
 .home-text1{
-    text-align: left;
+    text-align: center;
     line-height: 25px;
     margin-top: 6px;
     margin-right: 6px;

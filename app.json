@@ -2,6 +2,7 @@
   "pages": [
     "pages/city/city",
     "pages/jiuwei/jiuwei",
+    "pages/help/help",
     "pages/user/user"
   ],
   "window": {
@@ -23,6 +24,12 @@
         "text": "九尾萌盟",
         "iconPath": "images/jiuwei.png",
         "selectedIconPath": "images/jiuwei-activated.png"
+      },
+      {
+        "pagePath": "pages/help/help",
+        "text": "使用帮助",
+        "iconPath": "images/help.png",
+        "selectedIconPath": "images/help-activated.png"
       },
       {
         "pagePath": "pages/user/user",

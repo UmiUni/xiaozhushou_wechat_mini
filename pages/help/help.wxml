@@ -1,0 +1,86 @@
+<!--index.wxml-->
+  <!-- <view  wx:for="{{logs}}" wx:for-item="value">
+  {{value}}
+  </view> -->
+<!-- <text class="page_title">letsublease.com</text> -->
+<!--最外层-->
+<!-- <import src="../citySelect/citySelect.wxml" /> -->
+<template is="addressPicker" data="{{ ...city }}"/>
+
+<view class="home-view1">
+        <!--描述层-->
+        <text class="home-text1">1.单击一个小助手二维码图片进入preview模式</text>
+        <!--图片层-->
+        <view class="home-view2">
+            <image  class="home-image1" src="http://jogchat.com/img/help0.jpeg" data-src="http://jogchat.com/img/help0.jpeg" bindtap="previewImage"></image>
+        </view>
+        <!--分界线line-->
+        <view class="home-view-line"></view>
+</view>
+
+<view class="home-view1">
+        <!--描述层-->
+        <text class="home-text1">2.长按小助手二维码图片弹出下拉菜单</text>
+        <!--图片层-->
+        <view class="home-view2">
+            <image  class="home-image1" src="http://jogchat.com/img/help1.jpeg" data-src="http://jogchat.com/img/help1.jpeg" bindtap="previewImage"></image>
+        </view>
+        <!--分界线line-->
+        <view class="home-view-line"></view>
+</view>
+
+<view class="home-view1">
+        <!--描述层-->
+        <text class="home-text1">3.点击Save Image</text>
+        <!--图片层-->
+        <view class="home-view2">
+            <image  class="home-image1" src="http://jogchat.com/img/help2.jpeg" data-src="http://jogchat.com/img/help2.jpeg" bindtap="previewImage"></image>
+        </view>
+        <!--分界线line-->
+        <view class="home-view-line"></view>
+</view>
+
+<view class="home-view1">
+        <!--描述层-->
+        <text class="home-text1">4.单击微信右上角+号建，Scan a QR code</text>
+        <!--图片层-->
+        <view class="home-view2">
+            <image  class="home-image1" src="http://jogchat.com/img/help3.jpeg" data-src="http://jogchat.com/img/help3.jpeg" bindtap="previewImage"></image>
+        </view>
+        <!--分界线line-->
+        <view class="home-view-line"></view>
+</view>
+
+<view class="home-view1">
+        <!--描述层-->
+        <text class="home-text1">5.从Album中选择刚刚保存的二维码</text>
+        <!--图片层-->
+        <view class="home-view2">
+            <image  class="home-image1" src="http://jogchat.com/img/help4.jpeg" data-src="http://jogchat.com/img/help4.jpeg" bindtap="previewImage"></image>
+        </view>
+        <!--分界线line-->
+        <view class="home-view-line"></view>
+</view>
+
+
+<view class="home-view1">
+        <!--描述层-->
+        <text class="home-text1">6.添加小助手</text>
+        <!--图片层-->
+        <view class="home-view2">
+            <image  class="home-image1" src="http://jogchat.com/img/help5.jpeg" data-src="http://jogchat.com/img/help5.jpeg" bindtap="previewImage"></image>
+        </view>
+        <!--分界线line-->
+        <view class="home-view-line"></view>
+</view>
+
+<view class="home-view1">
+        <!--描述层-->
+        <text class="home-text1">7.回复数字进群</text>
+        <!--图片层-->
+        <view class="home-view2">
+            <image  class="home-image1" src="http://jogchat.com/img/help6.jpeg" data-src="http://jogchat.com/img/help6.jpeg" bindtap="previewImage"></image>
+        </view>
+        <!--分界线line-->
+        <view class="home-view-line"></view>
+</view>
