@@ -19,7 +19,7 @@ Page({
     }
     return {
       title: '北美加群小助手jogchat.com',
-      path: '/pages/city/city',
+      path: '/pages/help/help',
       success: function (res) {
         // 转发成功
       },
