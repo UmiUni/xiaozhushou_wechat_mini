@@ -18,7 +18,7 @@ Page({
       console.log(res.target)
     }
     return {
-      title: '北美加群小助手jogchat.com',
+      title: '北美加群小助手Jogchat.com',
       path: '/pages/help/help',
       success: function (res) {
         // 转发成功
@@ -28,16 +28,6 @@ Page({
       }
     }
   },
-  /**   
-   * 预览图片  
-   */
-  previewImage: function (e) {
-    var current = e.target.dataset.src;
-    wx.previewImage({
-      current: current, // 当前显示图片的http链接  
-      urls: [current] // 需要预览的图片http链接列表  
-    })
-  }
   /*
     getCurLocation: function () {//定义函数名称
       var that = this;   // 这个地方非常重要，重置data{}里数据时候setData方法的this应为以及函数的this, 如果在下方的sucess直接写this就变成了wx.request()的this了

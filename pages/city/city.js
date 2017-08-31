@@ -18,7 +18,7 @@ Page({
       console.log(res.target)
     }
     return {
-      title: '北美加群小助手jogchat.com',
+      title: '北美加群小助手Jogchat.com',
       path: '/pages/city/city',
       success: function (res) {
         // 转发成功
