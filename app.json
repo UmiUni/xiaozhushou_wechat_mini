@@ -2,6 +2,7 @@
   "pages": [
     "pages/city/city",
     "pages/jiuwei/jiuwei",
+    "pages/programming/programming",
     "pages/help/help",
     "pages/user/user"
   ],
@@ -24,6 +25,12 @@
         "text": "九尾萌盟",
         "iconPath": "images/jiuwei.png",
         "selectedIconPath": "images/jiuwei-activated.png"
+      },
+      {
+        "pagePath": "pages/programming/programming",
+        "text": "架构师圈",
+        "iconPath": "images/A.png",
+        "selectedIconPath": "images/A-activated.png"
       },
       {
         "pagePath": "pages/help/help",

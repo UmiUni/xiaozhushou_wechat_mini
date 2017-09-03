@@ -9,6 +9,17 @@
 
 <view class="home-view1">
         <!--描述层-->
+        <text class="home-text1">UW／西雅图加群小助手</text>
+        <!--图片层-->
+        <view class="home-view2">
+            <image  class="home-image1" src="http://jogchat.com/img/Seattle.png" data-src="http://jogchat.com/img/Seattle.png" bindtap="previewImage"></image>
+        </view>
+        <!--分界线line-->
+        <view class="home-view-line"></view>
+</view>
+
+<view class="home-view1">
+        <!--描述层-->
         <text class="home-text1">湾区／硅谷加群小助手</text>
         <!--图片层-->
         <view class="home-view2">
