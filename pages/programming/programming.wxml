@@ -1,5 +1,3 @@
-<template is="addressPicker" data="{{ ...city }}"/>
-
 <view class="home-view1">
         <!--描述层-->
         <text class="home-text1">架构师小秘圈公众号</text>

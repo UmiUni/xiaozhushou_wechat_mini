@@ -1,9 +1,9 @@
 {
   "pages": [
+    "pages/help/help",
     "pages/city/city",
     "pages/jiuwei/jiuwei",
     "pages/programming/programming",
-    "pages/help/help",
     "pages/user/user"
   ],
   "window": {
@@ -14,6 +14,12 @@
   },
   "tabBar": {
     "list": [
+      {
+        "pagePath": "pages/help/help",
+        "text": "使用帮助",
+        "iconPath": "images/help.png",
+        "selectedIconPath": "images/help-activated.png"
+      },
       {
         "pagePath": "pages/city/city",
         "text": "城市分类",
@@ -31,12 +37,6 @@
         "text": "架构师圈",
         "iconPath": "images/A.png",
         "selectedIconPath": "images/A-activated.png"
-      },
-      {
-        "pagePath": "pages/help/help",
-        "text": "使用帮助",
-        "iconPath": "images/help.png",
-        "selectedIconPath": "images/help-activated.png"
       },
       {
         "pagePath": "pages/user/user",

@@ -1,15 +1,11 @@
 //获取应用实例
 var app = getApp()
-var citySelect = require('../citySelect/citySelect.js')
 
 Page({
 
   onLoad: function () {
     console.log('onLoad')
     var that = this
-    //调用citySelect
-
-    citySelect.init(that)
   },
   onShareAppMessage: function (res) {
     if (res.from === 'button') {
@@ -18,7 +14,7 @@ Page({
     }
     return {
       title: '北美加群小助手Jogchat.com',
-      path: '/pages/city/city',
+      path: '/pages/programming/programming',
       success: function (res) {
         // 转发成功
       },

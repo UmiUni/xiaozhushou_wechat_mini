@@ -1,4 +1,4 @@
-/**index.wxss**/
+/**help.wxss**/
 .home-view1{
     display: flex;
     justify-content: center;

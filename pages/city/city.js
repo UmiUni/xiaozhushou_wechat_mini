@@ -1,7 +1,7 @@
 //index.js
 //获取应用实例
 var app = getApp()
-var citySelect = require('../citySelect/citySelect.js')
+// var citySelect = require('../citySelect/citySelect.js')
 
 Page({
 
@@ -10,7 +10,7 @@ Page({
     var that = this
     //调用citySelect
     
-    citySelect.init(that)
+    // citySelect.init(that)
   },
   onShareAppMessage: function (res) {
     if (res.from === 'button') {
