@@ -9,7 +9,7 @@
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "北美加群小助手Jogchat.com",
+    "navigationBarTitleText": "美国加群小助手Jogchat.com",
     "navigationBarTextStyle": "black"
   },
   "tabBar": {
@@ -40,7 +40,7 @@
       },
       {
         "pagePath": "pages/user/user",
-        "text": "我",
+        "text": "北美加群公众号",
         "iconPath": "images/user.png",
         "selectedIconPath": "images/user-activated.png"
       }

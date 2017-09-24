@@ -3,7 +3,14 @@
     <image class="userinfo-avatar" src="{{userInfo.avatarUrl}}" background-size="cover"></image>
     <text class="userinfo-nickname">{{userInfo.nickName}}</text>
   </view>
+        <!--图片层-->
+        <view class="home-view2">
+            <image  class="home-image1" src="http://jogchat.com/img/Jogchat.com.jpg" data-src="http://jogchat.com/img/Jogchat.com.jpg" bindtap="previewImage"></image>
+        </view>
+        <text class="home-text1">【北美加群小助手】Jogchat.com 我们的目标是把群建到北美各个角落～💪纽约、三番、硅谷、UIUC、普渡、西雅图。覆盖租房、二手交易、大学课程资料、面试刷题、活动社交等等内容。上天入地无所不能。现在加公众号能进所有群，扫码加公众号回复"目录"进群🙋</text>
   <view class="usermotto">
     <text class="user-motto">{{motto}}</text>
   </view>
+
+  
 </view>

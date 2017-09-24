@@ -7,6 +7,16 @@
 <!-- <import src="../citySelect/citySelect.wxml" /> -->
 <!-- <template is="addressPicker" data="{{ ...city }}"/> -->
 
+<!--图片层-->
+<view class="home-view2">
+<image  class="home-image2" src="http://jogchat.com/img/Jogchat.com.jpg" data-src="http://jogchat.com/img/Jogchat.com.jpg" bindtap="previewImage"></image>
+</view>
+<text class="home-text1">保存并扫描【北美加群小助手Jogchat】公众号二维码，上面有更全的城市群：纽约、硅谷、香槟、普渡、西雅图、三番、洛杉矶、芝加哥、波士顿、温哥华、新泽西、费城、休斯顿、达拉斯、明尼苏达。
+</text>
+<!--分界线line-->
+<view class="home-view-line"></view>
+
+
 <view class="home-view1">
         <!--描述层-->
         <text class="home-text1">Purdue／普渡加群小助手</text>
