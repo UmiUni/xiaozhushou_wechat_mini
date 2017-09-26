@@ -9,7 +9,7 @@
 
 <!--图片层-->
 <view class="home-view2">
-<image  class="home-image2" src="http://jogchat.com/img/Jogchat.com.jpg" data-src="http://jogchat.com/img/Jogchat.com.jpg" bindtap="previewImage"></image>
+<image  class="home-image2" src="https://jogchat.com/img/Jogchat.com.jpg" data-src="https://jogchat.com/img/Jogchat.com.jpg" bindtap="previewImage"></image>
 </view>
 <text class="home-text1">保存并扫描【北美加群小助手Jogchat】公众号二维码，上面有更全的城市群：纽约、硅谷、香槟、普渡、西雅图、三番、洛杉矶、芝加哥、波士顿、温哥华、新泽西、费城、休斯顿、达拉斯、明尼苏达。
 </text>
@@ -22,7 +22,7 @@
         <text class="home-text1">Purdue／普渡加群小助手</text>
         <!--图片层-->
         <view class="home-view2">
-            <image  class="home-image1" src="http://jogchat.com/img/Purdue.png" data-src="http://jogchat.com/img/Purdue.png" bindtap="previewImage"></image>
+            <image  class="home-image1" src="https://jogchat.com/img/Purdue.png" data-src="https://jogchat.com/img/Purdue.png" bindtap="previewImage"></image>
         </view>
         <!--分界线line-->
         <view class="home-view-line"></view>
@@ -33,7 +33,7 @@
         <text class="home-text1">UW／西雅图加群小助手</text>
         <!--图片层-->
         <view class="home-view2">
-            <image  class="home-image1" src="http://jogchat.com/img/Seattle.png" data-src="http://jogchat.com/img/Seattle.png" bindtap="previewImage"></image>
+            <image  class="home-image1" src="https://jogchat.com/img/Seattle.png" data-src="https://jogchat.com/img/Seattle.png" bindtap="previewImage"></image>
         </view>
         <!--分界线line-->
         <view class="home-view-line"></view>
@@ -44,7 +44,7 @@
         <text class="home-text1">湾区／硅谷加群小助手</text>
         <!--图片层-->
         <view class="home-view2">
-            <image  class="home-image1" src="http://jogchat.com/img/Stanford.png" data-src="http://jogchat.com/img/Stanford.png" bindtap="previewImage"></image>
+            <image  class="home-image1" src="https://jogchat.com/img/Stanford.png" data-src="https://jogchat.com/img/Stanford.png" bindtap="previewImage"></image>
         </view>
         <!--分界线line-->
         <view class="home-view-line"></view>
@@ -55,7 +55,7 @@
         <text class="home-text1">纽约加群小助手</text>
         <!--图片层-->
         <view class="home-view2">
-            <image  class="home-image1" src="http://jogchat.com/img/NYU.png" data-src="http://jogchat.com/img/NYU.png" bindtap="previewImage"></image>
+            <image  class="home-image1" src="https://jogchat.com/img/NYU.png" data-src="https://jogchat.com/img/NYU.png" bindtap="previewImage"></image>
         </view>
         <!--分界线line-->
         <view class="home-view-line"></view>
@@ -66,7 +66,7 @@
         <text class="home-text1">香槟加群小助手</text>
         <!--图片层-->
         <view class="home-view2">
-            <image  class="home-image1" src="http://jogchat.com/img/UIUC.png" data-src="http://jogchat.com/img/UIUC.png" bindtap="previewImage"></image>
+            <image  class="home-image1" src="https://jogchat.com/img/UIUC.png" data-src="https://jogchat.com/img/UIUC.png" bindtap="previewImage"></image>
         </view>
         <!--分界线line-->
         <view class="home-view-line"></view>
@@ -77,7 +77,7 @@
         <text class="home-text1">三番加群小助手</text>
         <!--图片层-->
         <view class="home-view2">
-            <image  class="home-image1" src="http://jogchat.com/img/SFSU.png" data-src="http://jogchat.com/img/SFSU.png" bindtap="previewImage"></image>
+            <image  class="home-image1" src="https://jogchat.com/img/SFSU.png" data-src="https://jogchat.com/img/SFSU.png" bindtap="previewImage"></image>
         </view>
         <!--分界线line-->
         <view class="home-view-line"></view>

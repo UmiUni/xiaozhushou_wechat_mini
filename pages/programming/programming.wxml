@@ -3,7 +3,7 @@
         <text class="home-text1">架构师小秘圈公众号</text>
         <!--图片层-->
         <view class="home-view2">
-            <image  class="home-image1" src="http://jogchat.com/img/Architecture.jpeg" data-src="http://jogchat.com/img/Architecture.jpeg" bindtap="previewImage"></image>
+            <image  class="home-image1" src="https://jogchat.com/img/Architecture.jpeg" data-src="https://jogchat.com/img/Architecture.jpeg" bindtap="previewImage"></image>
         </view>
         <text class="home-text1">架构师小秘圈，聚集10万架构师的小圈子！不定期分享技术干货，行业秘闻，汇集各类奇妙好玩的话题和流行动向！禁止截图，阅后即焚!</text>
 
