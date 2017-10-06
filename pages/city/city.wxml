@@ -16,6 +16,16 @@
 <!--分界线line-->
 <view class="home-view-line"></view>
 
+<view class="home-view1">
+        <!--描述层-->
+        <text class="home-text1">Texas/德州加群小助手</text>
+        <!--图片层-->
+        <view class="home-view2">
+            <image  class="home-image1" src="https://jogchat.com/img/Texas.png" data-src="https://jogchat.com/img/Texas.png" bindtap="previewImage"></image>
+        </view>
+        <!--分界线line-->
+        <view class="home-view-line"></view>
+</view>
 
 <view class="home-view1">
         <!--描述层-->
@@ -82,4 +92,7 @@
         <!--分界线line-->
         <view class="home-view-line"></view>
 </view>
+
+
+
 
